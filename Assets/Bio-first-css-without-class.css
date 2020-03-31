@@ -1,0 +1,50 @@
+
+   * {
+    border: 1px red solid;
+      } 
+
+    h1 {
+        font-size: 60 px;
+        text-align: center;
+        color: red;
+        background-color: blue;
+        padding-top : 40px;
+        padding-bottom : 10px;
+        margin-top:40px;
+       }
+
+    img{float:left;
+      padding-right: 100px;
+      width: 20%;
+       }
+
+    h3 {
+        font-size: 40 px;
+        color :green;
+        width: 20%;
+          margin: auto;
+          float:right;
+          overflow: auto;
+          /*padding-right: 30px;*/
+        }
+
+    body {
+      background-color:beige;
+          }
+    a{color:purple;}
+
+    div{
+     
+      background-color: white;
+      width: 50%;
+      margin: auto;
+     
+        }
+
+        ul{
+          width: 20%;
+          margin: auto;
+          float:right;
+           }
+
+    

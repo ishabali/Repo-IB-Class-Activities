@@ -1,0 +1,18 @@
+Following Broken Code Errors Corrected:
+
+In .html
+
+1. Added <h1> and </h1> tags before and after the heading - Boo the dog Fanpage 
+2. Added <p> and  </p> tags in About Boo paragraphs and also added before and after REad More at link
+3 Put the Instructions and it's table forming code within the Comments tag
+4. Put wikipedia link in href in ""
+5. Put opening tag < in <img class="img-responsive"
+6. Corrected id's Text Orange, TextGreen and TextPink
+7. Put <li> and </li> tags in the list
+8. In script, src should be logic.js
+
+--------------------------------------------------------------------------------------------
+
+In logic.js file:
+1. In javascript file, in boxgrow and boxshrink, added "" to click
+2. Put pink in quotes ""
